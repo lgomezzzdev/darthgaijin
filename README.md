@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">An IT Engineer with passion for Development and IT</h3>
+<h1 align="center">Yo, I'm Liam [ DarthGaijin ],</h1>
+<h3 align="center">An IT Engineer with passion for Development and Infrastructure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darthgaijin&label=Profile%20views&color=0e75b6&style=flat" alt="darthgaijin" /> </p>
 
@@ -20,9 +20,7 @@
 <a href="https://dev.to/darthgaijin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darthgaijin" height="30" width="40" /></a>
 <a href="https://twitter.com/darthgaijin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darthgaijin" height="30" width="40" /></a>
 <a href="https://instagram.com/darthgaijin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darthgaijin" height="30" width="40" /></a>
-<a href="https://dribbble.com/zxczxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="zxczxc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/darth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darth" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zxczxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zxczxc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
