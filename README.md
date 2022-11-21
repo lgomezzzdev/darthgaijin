@@ -9,7 +9,7 @@
 
 <img src="https://www.codewars.com/users/Darthgaijin/badges/large">
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Golang + VueJS**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
