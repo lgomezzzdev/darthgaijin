@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/darthgaijin" target="blank"><img src="https://img.shields.io/twitter/follow/darthgaijin?logo=twitter&style=for-the-badge" alt="darthgaijin" /></a> </p>
 
-<img src="https://www.codewars.com/users/Darthgaijin/badges/large">
-
 - 🌱 I’m currently building in **Golang + Threejs**
 
 ### Blogs posts
